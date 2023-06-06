@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/bin/Debug/net7.0/ExercicioArray
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/bin/Debug/net7.0/ExercicioArray.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/bin/Debug/net7.0/ExercicioArray.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/bin/Debug/net7.0/ExercicioArray.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/bin/Debug/net7.0/ExercicioArray.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/refint/ExercicioArray.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ExercicioArray.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioArray/obj/Debug/net7.0/ref/ExercicioArray.dll
